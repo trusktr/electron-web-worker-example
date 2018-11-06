@@ -1,4 +1,3 @@
-const fs = require('fs')
 const _ = require('lodash')
 
 const sleep = async time => new Promise(r => setTimeout(r, time))
